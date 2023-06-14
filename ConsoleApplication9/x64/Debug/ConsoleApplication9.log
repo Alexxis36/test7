@@ -1,0 +1,4 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\alexx\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\alexx\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication9.vcxproj -> C:\Users\alexx\source\repos\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
